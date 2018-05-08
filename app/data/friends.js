@@ -17,8 +17,8 @@ var friends = [
         ]
     },
     {
-        "name":"blonde",
-        "photo":"https://1.bp.blogspot.com/-xKpWbxtqTB8/UKtnPhU2CMI/AAAAAAAAJpk/UBk89RvAn1Q/s1600/Celebrity+HD+Wallpaper+1.jpg",
+        "name":"Alexandra Daddario",
+        "photo":"https://vignette.wikia.nocookie.net/bookclub/images/1/1d/Alexandradaddario.jpg/revision/latest?cb=20140429222350",
         "scores":[
             5,
             5,
@@ -34,7 +34,7 @@ var friends = [
     },
     {
         "name":"Nina Dobrev",
-        "photo":"https://i.pinimg.com/originals/00/35/b4/0035b4f723eaa6bcc4cdddb94246bda3.jpg",
+        "photo":"https://pmctvline2.files.wordpress.com/2017/01/nina-dobrev.jpg?w=620",
         "scores":[
             1,
             2,
@@ -50,7 +50,7 @@ var friends = [
     },
     {
         "name":"Rihanna",
-        "photo":"https://s1.r29static.com//bin/entry/aab/0,156,4000,3000/1220x915,80/1962578/image.jpg",
+        "photo":"https://www.bblackafrica.tv/wp-content/uploads/2018/03/rihanna-snapchat.jpg",
         "scores":[
             5,
             4,
@@ -81,8 +81,8 @@ var friends = [
         ]
     },
     {
-        "name":"Vigarra",
-        "photo":"https://wallscover.com/images/celebrity-6.jpg",
+        "name":"Sofia Vergara",
+        "photo":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Sofia_Vergara_2011_cropped.jpg/170px-Sofia_Vergara_2011_cropped.jpg",
         "scores":[
             1,
             2,
@@ -130,7 +130,7 @@ var friends = [
     },
     {
         "name":"Terry Crews",
-        "photo":"https://i.imgur.com/wYCou6H.jpg",
+        "photo":"https://www.gannett-cdn.com/-mm-/b30ed34921be1ff3ce2e0494915c65301a83acd2/c=0-402-1992-1900&r=x404&c=534x401/local/-/media/2017/11/15/USATODAY/USATODAY/636463347966122722-GTY-855607116-94202943.JPG",
         "scores":[
             5,
             5,
