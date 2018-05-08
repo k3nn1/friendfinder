@@ -3,8 +3,6 @@
 var express = require("express");
 var bodyParser = require("body-parser");
 var path = require("path");
-// var routes = require('./app/routing/htmlRoutes');
-// var api = require('./app/routing/apiRoutes');
 
 // Sets up the Express App
 // =============================================================
@@ -22,8 +20,6 @@ app.use(bodyParser.json({
 }));
 
 // Import routes
-// routes(app);
-// api(app);
 require('./app/routing/apiRoutes')(app);
 require('./app/routing/htmlRoutes')(app);
 
