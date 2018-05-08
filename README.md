@@ -1,5 +1,4 @@
-# friendfinder
-## WORKING on some bugs...
+# WORKING on some bugs...
   * working on calculations
   * my picture is kind of offset
   
