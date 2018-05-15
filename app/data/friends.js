@@ -114,7 +114,7 @@ var friends = [
     },
     {
         "name":"Kanye West",
-        "photo":"https://media.architecturaldigest.com/photos/5ae0ce9ceafdee4e6e6c3ded/16:9/w_768/GettyImages-597567272.jpg",
+        "photo":"https://static.dezeen.com/uploads/2013/09/dezeen_Kanye-West_1.jpg",
         "scores":[
             3,
             3,

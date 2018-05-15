@@ -11,7 +11,8 @@ module.exports = function(app) {
 
     app.post("/api/friends", function (req, res) {
         var totalDifference = []; //this will hold results of each total differences in an array
-        // var tempDiff = [];
+        // var temp = [];
+        
         console.log("Your Input: ", req.body);
         console.log("-----------------------------------------\n");
 
@@ -24,10 +25,9 @@ module.exports = function(app) {
                 var difference = 0;
                 difference += Math.abs(req.body.scores[j] - match[j]);
                 console.log("difference: ", difference);
-
-                // for (var k = 0)
-
             }
+            // console.log("temp: ",x)
+
             totalDifference.push(difference);
             console.log("total Difference: ", totalDifference);
             console.log("-----------------------------------------\n");
